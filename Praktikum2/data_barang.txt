@@ -1,0 +1,10 @@
+BRG001,Mie Goreng,15
+BRG002,Mie Rebus,80
+BRG003,Susu,150
+BRG004,Roti,60
+BRG005,Sosis,40
+BRG006,Air Mineral,150
+BRG007,Es Teh,100
+BRG008,Kopi,80
+BRG009,Coca-cola,30
+BRG010,Pocari Sweat,60
