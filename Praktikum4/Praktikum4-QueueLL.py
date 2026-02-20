@@ -52,6 +52,8 @@ class Queue:
         if self.front is None:
             self.rear = None
 
+        return data_terhapus
+
     def tampilkan(self):
         current = self.front
         print("Front ->", end=" ")
